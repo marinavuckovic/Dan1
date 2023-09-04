@@ -1,0 +1,12 @@
+.c1{
+    color: red;
+}
+#id1{
+    background-color: azure;
+}
+ul li{
+    color:blue;
+}
+ol> li{
+    background-color: blueviolet;
+}
